@@ -1,7 +1,6 @@
 # Hello! My name is Taruscript. Please call me Taru.
 I am studying computer science and cybersecurity.
 However, I am a beginner forever.
-Please be gentle with me, okay? lol.
 
 ## works
 
