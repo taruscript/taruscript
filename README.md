@@ -1,4 +1,4 @@
-# Hello! My name is Taruscript. Please call me Taru.
+# Hello! I am Taruscript. Please call me Taru.
 I am studying computer science and cybersecurity.
 However, I am a beginner forever.
 
