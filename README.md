@@ -6,9 +6,11 @@
 ![image](https://github.com/user-attachments/assets/19547091-4751-41f0-aeee-3aad85cf878d)
 
 <div align="center">
-<a href="https://taruscript.github.io">
-  <h1><i>Visit my personal website...</i></h1>
-</a>
+<h1>
+  <a href="https://taruscript.github.io">
+    <i>Visit my personal website...</i>
+  </a>
+</h1>
 </div>
 
 <div align="center">
