@@ -12,7 +12,3 @@
   </a>
 </h1>
 </div>
-
-<div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftaruscript&s=47&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
-</div>
